@@ -1,0 +1,106 @@
+/* Styling of navigation bar */
+#navdiv {
+    display: flex;
+    width: 17%;
+    margin-left: 82%;
+    justify-content: space-around;
+    margin-top: 2%;
+    height: 35px;
+
+}
+
+#menuImg {
+    width: 102%;
+    height: 82%;
+    margin-top: 1px;
+
+}
+
+button {
+    border-radius: 3px;
+    height: 100%;
+    padding: 5px 12px;
+    background-color: #4C87E1;
+    color: white;
+    border: none;
+}
+
+.googleImage {
+    margin-top: 50px;
+}
+
+#maindiv {
+    width: 45%;
+    border-radius: 50px;
+    display: flex;
+    height: 47px;
+    border: 1px solid lightgrey;
+    margin-top: 30px;
+    margin-left: 379px;
+}
+
+#inputspan {
+    width: 100%;
+}
+
+/* input bar :- this the place where you will write the text inside */
+#inputbar {
+    height: 45px;
+    border: none;
+    width: 503px;
+    font-size: 16px;
+    outline: none;
+}
+
+
+
+/* search symbol */
+span:first-child {
+    width: 10%;
+    border-radius: 50px;
+    margin-top: 7px;
+}
+
+/* mike symbol */
+span:last-child {
+    width: 10%;
+    border-radius: 50px;
+    margin-top: 7px;
+}
+
+#mic {
+    width: 70%;
+    height: 90%;
+}
+
+#search {
+    width: 54%;
+    height: 62%;
+}
+
+
+/* BUTTONS DESIGN */
+section{
+    display: flex;
+    margin-top: 2%;
+    width:29%;
+    justify-content: space-around;
+    margin-bottom: 2%;
+    margin-left: 36%;
+  }
+  section button{
+    padding:5px 20px;
+    background-color: rgb(218, 218, 218);
+    color:black;
+  }
+
+  #SIvCob {
+    margin-left: 32%; 
+    color: #3c4043;
+    display: inline-block;
+    line-height: 28px;
+    font-size: 12px;
+}
+ 
+
+ 
